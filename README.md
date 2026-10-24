@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**dnyanumadake17/dnyanumadake17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Dnyanu 👋
 
-Here are some ideas to get you started:
+## Aspiring AWS Cloud & DevOps Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Learning AWS, Linux, Networking and DevOps
+- ☁️ Interested in Cloud Computing and Automation
+- 💻 Working on AWS hands-on projects
+- 🎯 Looking for Fresher Jobs and Internships
+
+### Skills
+AWS | Linux | Networking | Git | GitHub
+
+### Connect with me
+GitHub: https://github.com/dnyanumadake17
+Linkedin:www.linkedin.com/in/dnyaneshwar-madake-553234413
