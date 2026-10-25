@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 
 
-# Hi, I'm Dnyanu 👋
+# Hi, I'm Dnyaneshwar
 
 ## Aspiring AWS Cloud & DevOps Engineer
 
